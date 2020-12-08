@@ -1,14 +1,14 @@
-<a href="https://github.com/kugimasa">
+<a href="https://github.com/Hamumayo55">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=Hamumayo55&count_private=true&show_icons=true&theme=vue-dark" />
 </a>
 
-<a href="https://github.com/kugimasa">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamumayo55" />
+<a href="https://github.com/Hamumayo55">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamumayo55&layout=compact&theme=vue-dark" />
 </a>
 
 <!--
 **Hamumayo55/Hamumayo55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hamumayo55&theme=dark&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hamumayo55&theme=dark&show_icons=true&theme=vue-dark)
 
 Here are some ideas to get you started:
 
