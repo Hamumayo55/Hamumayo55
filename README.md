@@ -1,9 +1,10 @@
+## Hello 👋
 <a href="https://github.com/Hamumayo55">
-  <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=Hamumayo55&count_private=true&show_icons=true&theme=vue" />
+  <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=Hamumayo55&count_private=true&show_icons=true&theme=buefy" />
 </a>
 
 <a href="https://github.com/Hamumayo55">
-  <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamumayo55&hide=Jupyter notebook&layout=compact&theme=vue" />
+  <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamumayo55&hide=Jupyter notebook&layout=compact&theme=buefy" />
 </a>  
 
 
