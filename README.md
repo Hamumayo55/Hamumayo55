@@ -11,7 +11,7 @@
 ## Product
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Hamumayo55&repo=Sukuramukun&theme=vue-dark)](https://github.com/Hamumayo55/Sukuramukun)
 
-## LT
+## Lightning Talk
 [Agile PBL祭り](https://www2.slideshare.net/TakuyaShinjo/agile-pbl2020)
 
 <!--
