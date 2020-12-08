@@ -2,7 +2,12 @@
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=Hamumayo55&count_private=true&show_icons=true&theme=buefy" />
 </a>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Hamumayo55&repo=Sukuramukun&theme=buefy)](https://github.com/Hamumayo55/Sukuramukun)
+<a href="https://github.com/Hamumayo55">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamumayo55&hide=Jupyter notebook&layout=compact" />
+</a>  
+
+## Product
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Hamumayo55&repo=Sukuramukun&theme=dark)](https://github.com/Hamumayo55/Sukuramukun)
 
 
 
