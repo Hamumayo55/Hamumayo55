@@ -10,6 +10,7 @@
 
 ## Product
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Hamumayo55&repo=Sukuramukun&theme=vue-dark)](https://github.com/Hamumayo55/Sukuramukun)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Hamumayo55&repo=example-pyqubo&theme=vue-dark)](https://github.com/Hamumayo55/example-pyqubo)
 
 ## Lightning Talk
 [Agile PBL祭り](https://www2.slideshare.net/TakuyaShinjo/agile-pbl2020)
