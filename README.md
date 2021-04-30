@@ -10,7 +10,6 @@
 
 ## Product
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Hamumayo55&repo=Sukuramukun&theme=vue-dark)](https://github.com/Hamumayo55/Sukuramukun)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Hamumayo55&repo=example-pyqubo&theme=vue-dark)](https://github.com/Hamumayo55/example-pyqubo)
 
 ## Lightning Talk
 [Agile PBL祭り](https://www2.slideshare.net/TakuyaShinjo/agile-pbl2020)
@@ -20,6 +19,7 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hamumayo55&theme=dark&show_icons=true&theme=vue-dark)
 
 Here are some ideas to get you started:
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Hamumayo55&repo=example-pyqubo&theme=vue-dark)](https://github.com/Hamumayo55/example-pyqubo)
 
 
 - 🔭 I’m currently working on ...
